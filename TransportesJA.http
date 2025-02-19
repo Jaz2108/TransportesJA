@@ -1,0 +1,6 @@
+@TransportesJA_HostAddress = http://localhost:5289
+
+GET {{TransportesJA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
